@@ -1,0 +1,1 @@
+This direction contains all the models saved after training, and is generated when model_training in run.py is enabled.

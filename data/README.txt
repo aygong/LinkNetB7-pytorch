@@ -1,0 +1,1 @@
+This direction contains all the processed training datasets, and is generated when training_data_processing in run.py is enabled.
